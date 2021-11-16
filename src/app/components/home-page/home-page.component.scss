@@ -1,0 +1,16 @@
+.welcome-text {
+  justify-content: center;
+  display: flex;
+  margin-top: 20px !important;
+
+  .text {
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: bold;
+    width: fit-content;
+  }
+}
+
+.container {
+  height: 100vh;
+}

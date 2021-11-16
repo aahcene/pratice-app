@@ -1,0 +1,12 @@
+.footer-content {
+    justify-content: start;
+    display:flex;
+    height: 50px;
+
+    .footer-title {
+        font-size: 30px;
+        line-height: 21px;
+        width: fit-content;
+        text-transform: capitalize;
+    }
+}
